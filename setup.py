@@ -18,7 +18,7 @@ requirements = [
     'requests',
     # 'regex',
     'pathlib',
-    'torch>=2.0',
+    'torch>2.0,<2.6',
     'transformers>=4.0,<4.44',
     'seqeval==1.2.2',
     'natsort==7.1.1',
